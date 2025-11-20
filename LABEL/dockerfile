@@ -1,0 +1,4 @@
+FROM cmd
+LABEL course = "devops"\
+      triner = "shiva"\
+      author = "shivakumar"
